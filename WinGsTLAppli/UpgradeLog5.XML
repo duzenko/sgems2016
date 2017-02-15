@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WinGsTLAppli">
+</Property><Property Name="Solution File" Value="D:\dev\sgems\GsTLAppli-qt4\WinGsTLAppli\WinGsTLAppli.sln">
+</Property><Property Name="Date" Value="Thursday, 9 June 2016">
+</Property><Property Name="Time" Value="17:40:12">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\actions\actions.vcxproj" Source="actions" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="actions" Source="..\GsTLAppli\actions\actions.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="actions" Source="..\GsTLAppli\actions\actions.vcxproj" Description="Not Converted">
+</Event></UpgradeLog>

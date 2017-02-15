@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WinGsTLAppli">
+</Property><Property Name="Solution File" Value="D:\dev\sgems\GsTLAppli-qt4\WinGsTLAppli\WinGsTLAppli.sln">
+</Property><Property Name="Date" Value="Thursday, 9 June 2016">
+</Property><Property Name="Time" Value="17:35">
+</Property></Properties><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\actions\actions.vcxproj" Source="actions" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="actions" Source="..\GsTLAppli\actions\actions.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="actions" Source="..\GsTLAppli\actions\actions.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\appli\appli.vcxproj" Source="appli" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="appli" Source="..\GsTLAppli\appli\appli.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="appli" Source="..\GsTLAppli\appli\appli.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\extra\gui\extragui.vcxproj" Source="extragui" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="extragui" Source="..\GsTLAppli\extra\gui\extragui.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="extragui" Source="..\GsTLAppli\extra\gui\extragui.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\geostat\geostat.vcxproj" Source="geostat" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="geostat" Source="..\GsTLAppli\geostat\geostat.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="geostat" Source="..\GsTLAppli\geostat\geostat.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\grid\grid.vcxproj" Source="grid" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="grid" Source="..\GsTLAppli\grid\grid.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="grid" Source="..\GsTLAppli\grid\grid.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\math\math.vcxproj" Source="math" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="math" Source="..\GsTLAppli\math\math.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="math" Source="..\GsTLAppli\math\math.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\utils\utils.vcxproj" Source="utils" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="utils" Source="..\GsTLAppli\utils\utils.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="utils" Source="..\GsTLAppli\utils\utils.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\main\main.vcxproj" Source="main" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="main" Source="..\GsTLAppli\main\main.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="main" Source="..\GsTLAppli\main\main.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\gui\gui.vcxproj" Source="gui" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="gui" Source="..\GsTLAppli\gui\gui.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="gui" Source="..\GsTLAppli\gui\gui.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\extra\qwt\qwt.vcxproj" Source="qwt" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="qwt" Source="..\GsTLAppli\extra\qwt\qwt.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="qwt" Source="..\GsTLAppli\extra\qwt\qwt.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\filters\filters.vcxproj" Source="filters" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="filters" Source="..\GsTLAppli\filters\filters.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="filters" Source="..\GsTLAppli\filters\filters.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="D:\dev\sgems\GsTLAppli-qt4\GsTLAppli\extra\qtplugins\qtplugins.vcxproj" Source="qtplugins" Description="Cannot load the project due to a corrupt project file.">
+</Event><Event ErrorLevel="2" Project="qtplugins" Source="..\GsTLAppli\extra\qtplugins\qtplugins.vcxproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="qtplugins" Source="..\GsTLAppli\extra\qtplugins\qtplugins.vcxproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WinGsTLAppli.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="WinGsTLAppli.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
